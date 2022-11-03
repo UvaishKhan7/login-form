@@ -1,0 +1,28 @@
+.App{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+}
+
+.loginPage {
+  height: 100vh;
+  margin-top: 0px;
+  text-align: center;
+}
+
+.btnYes{
+  background-color: #00c106e0;
+}
+
+.btnNo{
+  background-color: #f71717e0;
+}
+
+.btnYes:hover{
+  background-color: #008504c2;
+}
+
+.btnNo:hover{
+  background-color: #8d0707e0;
+}
